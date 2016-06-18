@@ -82,7 +82,7 @@ That should give you a file called ``my_map.pdf`` in your current working direct
 This is by far the biggest hassle. Once it is done, however, it never needs to
 be done again. These instructions work on Ubuntu 12.04. You’ll probably need to
 modify them to suit your particular environment. These directions also assume
-you have [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/)
+you have [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
 setup as well.
 
 ```bash
